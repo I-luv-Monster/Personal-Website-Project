@@ -7,35 +7,46 @@
       font-size: 60px;
       font-style: italic;
       font-family: fantasy;
-      color:rgb(93, 2, 2)
+      color:rgb(93, 2, 2);
+      text-align: center;
     }
 
     ul {
       font-style: italic;
       font-family: fantasy;
-      color:rgb(154, 26, 26)
+      color:rgb(154, 26, 26);
+      text-align: center; 
     }
 
     h2 {
       font-style: italic;
       font-family: fantasy;
-      color:rgb(93, 2, 2)
+      color:rgb(93, 2, 2);
+      text-align: center;
     }
 
     h4 {
       font-style: italic;
       font-family: fantasy;
-      color:rgb(0, 110, 255)
+      color:rgb(0, 110, 255);
+      text-align: center;
     }
 
     th {
       font-style: italic;
       font-family: fantasy;
-      color:rgb(0, 110, 255)
+      color:rgb(0, 110, 255);
     }
 
     .home {
       font-style: italic;
       font-family: fantasy;
-      color:rgb(0, 110, 255)
+      color:rgb(0, 110, 255);
     }
+
+    .li {
+      font-style: italic;
+      font-family: fantasy;
+      color:rgb(0, 110, 255);
+    }
+
